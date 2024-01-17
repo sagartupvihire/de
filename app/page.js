@@ -1,9 +1,5 @@
 "use client"
 import { userAgent } from 'next/server'
-// pages/download.js
-
-import React from 'react';
-// pages/download.js
 
 import React, { useState } from 'react';
 
